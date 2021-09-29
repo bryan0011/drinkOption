@@ -13,6 +13,7 @@
 		049F515D270185C60086E6BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 049F515B270185C60086E6BD /* Main.storyboard */; };
 		049F515F270185C70086E6BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 049F515E270185C70086E6BD /* Assets.xcassets */; };
 		049F5162270185C70086E6BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 049F5160270185C70086E6BD /* LaunchScreen.storyboard */; };
+		04F4D89027049FBC00C8646C /* jf-openhuninn-1.1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04F4D88F27049FBC00C8646C /* jf-openhuninn-1.1.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		049F515E270185C70086E6BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		049F5161270185C70086E6BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		049F5163270185C70086E6BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04F4D88F27049FBC00C8646C /* jf-openhuninn-1.1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "jf-openhuninn-1.1.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				049F515E270185C70086E6BD /* Assets.xcassets */,
 				049F5160270185C70086E6BD /* LaunchScreen.storyboard */,
 				049F5163270185C70086E6BD /* Info.plist */,
+				04F4D88F27049FBC00C8646C /* jf-openhuninn-1.1.ttf */,
 			);
 			path = drinkOption;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				049F5162270185C70086E6BD /* LaunchScreen.storyboard in Resources */,
+				04F4D89027049FBC00C8646C /* jf-openhuninn-1.1.ttf in Resources */,
 				049F515F270185C70086E6BD /* Assets.xcassets in Resources */,
 				049F515D270185C60086E6BD /* Main.storyboard in Resources */,
 			);
